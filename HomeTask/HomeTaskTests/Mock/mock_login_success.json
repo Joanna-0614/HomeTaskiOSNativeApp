@@ -1,0 +1,705 @@
+[
+   {
+      "id":1,
+      "photo":"https://hws.dev/img/user-1-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-1-thumb.jpg",
+      "firstName":"Jaime",
+      "lastName":"Rove",
+      "email":"jrove1@huffingtonpost.com",
+      "experience":10,
+      "rate":300,
+      "bio":"I am a graphic designer who specializes in creating unique and eye-catching logos.",
+      "details":"My go-to tools are Adobe Illustrator and Photoshop. I love designing anything that can make a strong impact and leave a lasting impression.",
+      "skills":[
+         "Illustrator",
+         "Photoshop"
+      ],
+      "tags":[
+         "ideator",
+         "aligned",
+         "manager",
+         "excitable"
+      ]
+   },
+   {
+      "id":2,
+      "photo":"https://hws.dev/img/user-2-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-2-thumb.jpg",
+      "firstName":"Edith",
+      "lastName":"Porson",
+      "email":"eporson@skyrock.com",
+      "experience":4,
+      "rate":180,
+      "bio":"I am a UI/UX designer who focuses on creating intuitive and user-friendly interfaces.",
+      "details":"I use Sketch and Adobe XD in my work. I particularly enjoy designing mobile apps and websites.",
+      "skills":[
+         "Sketch",
+         "XD"
+      ],
+      "tags":[
+         "capable",
+         "analyzer",
+         "forward-thinking",
+         "focused"
+      ]
+   },
+   {
+      "id":3,
+      "photo":"https://hws.dev/img/user-3-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-3-thumb.jpg",
+      "firstName":"Andi",
+      "lastName":"Bambury",
+      "email":"abambury2@uol.com.br",
+      "experience":7,
+      "rate":275,
+      "bio":"As a product designer, I look for ways to improve the functionality and aesthetics of everyday items.",
+      "details":"I use Alias and AutoCAD for 3D modeling and rendering. I love designing appliances and furniture.",
+      "skills":[
+         "Alias",
+         "AutoCAD"
+      ],
+      "tags":[
+         "interfaced",
+         "extended",
+         "robust",
+         "ergonomic"
+      ]
+   },
+   {
+      "id":4,
+      "photo":"https://hws.dev/img/user-4-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-4-thumb.jpg",
+      "firstName":"Glenda",
+      "lastName":"Gyles",
+      "email":"gg3@icq.com",
+      "experience":14,
+      "rate":500,
+      "bio":"I am a fashion designer who believes that clothing should be both stylish and sustainable.",
+      "details":"I use Illustrator and InDesign to create my designs. I enjoy designing eco-friendly and ethically-made clothing.",
+      "skills":[
+         "Illustrator",
+         "InDesign"
+      ],
+      "tags":[
+         "client-driven",
+         "operative",
+         "scalable",
+         "rock star"
+      ]
+   },
+   {
+      "id":5,
+      "photo":"https://hws.dev/img/user-5-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-5-thumb.jpg",
+      "firstName":"Aloysia",
+      "lastName":"McGarvie",
+      "email":"amcgarvie@wikia.com",
+      "experience":18,
+      "rate":750,
+      "bio":"I am an architectural designer who is passionate about designing sustainable and energy-efficient buildings.",
+      "details":"I use AutoCAD and Alias to create my designs. I love designing residential and commercial buildings.",
+      "skills":[
+         "Alias",
+         "AutoCAD"
+      ],
+      "tags":[
+         "devolved",
+         "synergized",
+         "assimilated",
+         "cross-platform"
+      ]
+   },
+   {
+      "id":6,
+      "photo":"https://hws.dev/img/user-6-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-6-thumb.jpg",
+      "firstName":"Martica",
+      "lastName":"Petford",
+      "email":"mpetford@cargocollective.com",
+      "experience":2,
+      "rate":200,
+      "bio":"I am a digital painter and illustrator who creates vibrant and fantastical worlds.",
+      "details":"I use Illustrator and Photoshop from Adobe to bring my ideas to life. I love designing fantasy creatures and landscapes.",
+      "skills":[
+         "Illustrator",
+         "Photoshop"
+      ],
+      "tags":[
+         "eco-centric",
+         "multi-tasking",
+         "de-engineered",
+         "function-based"
+      ]
+   },
+   {
+      "id":7,
+      "photo":"https://hws.dev/img/user-7-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-7-thumb.jpg",
+      "firstName":"Larry",
+      "lastName":"Gouldbourn",
+      "email":"gouldbourn@tinypic.com",
+      "experience":4,
+      "rate":225,
+      "bio":"I am an automotive designer who is always pushing the boundaries of what is possible in car design.",
+      "details":"I use Alias for all my 3D modeling and rendering needs. I love designing futuristic and concept cars.",
+      "skills":[
+         "Alias"
+      ],
+      "tags":[
+         "user-facing",
+         "proactive",
+         "object-oriented",
+         "mission-critical"
+      ]
+   },
+   {
+      "id":8,
+      "photo":"https://hws.dev/img/user-8-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-8-thumb.jpg",
+      "firstName":"Tamas",
+      "lastName":"Gyrgorcewicx",
+      "email":"tamas79@etsy.com",
+      "experience":13,
+      "rate":250,
+      "bio":"I am a motion graphics designer who is always looking for new and innovative ways to tell stories through animation.",
+      "details":"I use After Effects, Photoshop, and Cinema 4D in my work. I love designing title sequences and explainer videos.",
+      "skills":[
+         "After Effects",
+         "Photoshop",
+         "Cinema 4D"
+      ],
+      "tags":[
+         "circling back",
+         "ergonomic",
+         "synchronised",
+         "encrypted"
+      ]
+   },
+   {
+      "id":9,
+      "photo":"https://hws.dev/img/user-9-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-9-thumb.jpg",
+      "firstName":"Krista",
+      "lastName":"Scollick",
+      "email":"kscollick@instagram.com",
+      "experience":10,
+      "rate":400,
+      "bio":"I am a game designer who creates tries to imagine what future gaming might look like.",
+      "details":"I use After Effects and Cinema 4D to try imagine worlds that don't exist right now, then others convert my designs to code.",
+      "skills":[
+         "After Effects",
+         "Cinema 4D"
+      ],
+      "tags":[
+         "leveraged",
+         "analyzer",
+         "focus groupee",
+         "object-based"
+      ]
+   },
+   {
+      "id":10,
+      "photo":"https://hws.dev/img/user-10-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-10-thumb.jpg",
+      "firstName":"Baz",
+      "lastName":"Beevens",
+      "email":"bbeevens@dailyfail.co.uk",
+      "experience":10,
+      "rate":500,
+      "bio":"I am a toy designer who creates fun and imaginative toys for children of all ages.",
+      "details":"I use Maya to create my designs, and often touch them up with Photoshop. I love designing action figures and collectibles.",
+      "skills":[
+         "Maya",
+         "Photoshop"
+      ],
+      "tags":[
+         "out of the box",
+         "helper",
+         "group thinker",
+         "deep diving"
+      ]
+   },
+   {
+      "id":11,
+      "photo":"https://hws.dev/img/user-11-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-11-thumb.jpg",
+      "firstName":"Colin",
+      "lastName":"Hendriks",
+      "email":"chendriks@topsy.com",
+      "experience":1,
+      "rate":80,
+      "bio":"I am a landscape designer who creates beautiful and functional outdoor spaces.",
+      "details":"I use SketchUp and AutoCAD to create my designs. I love designing parks, gardens, and public spaces.",
+      "skills":[
+         "AutoCAD",
+         "SketchUp"
+      ],
+      "tags":[
+         "eco-centric",
+         "upgradable",
+         "forward-thinking",
+         "very online"
+      ]
+   },
+   {
+      "id":12,
+      "photo":"https://hws.dev/img/user-12-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-12-thumb.jpg",
+      "firstName":"Kerrie",
+      "lastName":"Koppeck",
+      "email":"koppeck@ft.com",
+      "experience":5,
+      "rate":220,
+      "bio":"I am a packaging designer who is always looking for ways to make packaging more sustainable and eco-friendly.",
+      "details":"I use Illustrator and InDesign to create my designs. I love designing packaging for food and cosmetics.",
+      "skills":[
+         "Illustrator",
+         "InDesign"
+      ],
+      "tags":[
+         "conglomerated",
+         "incremental",
+         "multimedia",
+         "mission-critical"
+      ]
+   },
+   {
+      "id":13,
+      "photo":"https://hws.dev/img/user-13-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-13-thumb.jpg",
+      "firstName":"Alison",
+      "lastName":"Garrold",
+      "email":"agarrold@upenn.edu",
+      "experience":8,
+      "rate":475,
+      "bio":"I am a typeface designer who creates beautiful and functional fonts.",
+      "details":"I use Illustrator and Photoshop to create and test my designs. I love designing script and display fonts.",
+      "skills":[
+         "Illustrator",
+         "Photoshop"
+      ],
+      "tags":[
+         "polarised",
+         "adaptive",
+         "game-changer",
+         "influencer"
+      ]
+   },
+   {
+      "id":14,
+      "photo":"https://hws.dev/img/user-14-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-14-thumb.jpg",
+      "firstName":"Holly",
+      "lastName":"Hynde",
+      "email":"hyndeh@craigslist.org",
+      "experience":9,
+      "rate":180,
+      "bio":"I am a 3D artist who creates lifelike and fantastical characters, creatures, and environments.",
+      "details":"I use Maya and Photoshop to create my designs. I love designing creatures and characters for films, games, and animation.",
+      "skills":[
+         "Maya",
+         "Photoshop"
+      ],
+      "tags":[
+         "strategic",
+         "stakeholder",
+         "ideator",
+         "contextual"
+      ]
+   },
+   {
+      "id":15,
+      "photo":"https://hws.dev/img/user-15-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-15-thumb.jpg",
+      "firstName":"Rafaello",
+      "lastName":"Angelini",
+      "email":"r.angelini@slate.com",
+      "experience":10,
+      "rate":200,
+      "bio":"I am a jewelry designer who creates unique and beautiful pieces of jewelry.",
+      "details":"I use Figma and Procreate to create my designs. I love designing engagement rings and custom jewelry.",
+      "skills":[
+         "Figma",
+         "Procreate"
+      ],
+      "tags":[
+         "collaborating",
+         "intuitive",
+         "knowledge user",
+         "pivoting"
+      ]
+   },
+   {
+      "id":16,
+      "photo":"https://hws.dev/img/user-16-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-16-thumb.jpg",
+      "firstName":"Ursulina",
+      "lastName":"Jakovijevic",
+      "email":"ujakovijevic@msu.edu",
+      "experience":4,
+      "rate":400,
+      "bio":"I am an interior designer who creates functional and beautiful spaces.",
+      "details":"I use SketchUp and AutoCAD to create my designs. I love designing restaurants, hotels and residential spaces.",
+      "skills":[
+         "AutoCAD",
+         "SketchUp"
+      ],
+      "tags":[
+         "optimizing",
+         "exclusive",
+         "incremental",
+         "rock star"
+      ]
+   },
+   {
+      "id":17,
+      "photo":"https://hws.dev/img/user-17-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-17-thumb.jpg",
+      "firstName":"Peter",
+      "lastName":"Mudle",
+      "email":"pmudle@myspace.com",
+      "experience":6,
+      "rate":375,
+      "bio":"I am a web designer who creates visually stunning and user-friendly websites.",
+      "details":"I use Adobe XD and Photoshop to prototype my designs, then turn them into code once they have client approval. I love designing e-commerce websites.",
+      "skills":[
+         "Photoshop",
+         "XD"
+      ],
+      "tags":[
+         "realigned",
+         "even-keeled",
+         "future-proofed",
+         "5th generation"
+      ]
+   },
+   {
+      "id":18,
+      "photo":"https://hws.dev/img/user-18-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-18-thumb.jpg",
+      "firstName":"Tamarra",
+      "lastName":"Gawthorp",
+      "email":"tamarra@springer.com",
+      "experience":8,
+      "rate":250,
+      "bio":"I am an industrial designer who creates innovative and functional products.",
+      "details":"I use AutoCAD and Cinema 4D to create and render my designs. I love designing consumer electronics and household items.",
+      "skills":[
+         "AutoCAD",
+         "Cinema 4D"
+      ],
+      "tags":[
+         "assimilated",
+         "framed",
+         "multimedia",
+         "conceptizer"
+      ]
+   },
+   {
+      "id":19,
+      "photo":"https://hws.dev/img/user-19-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-19-thumb.jpg",
+      "firstName":"Bernard",
+      "lastName":"Oboy",
+      "email":"bernard.oboy@ihg.com",
+      "experience":3,
+      "rate":200,
+      "bio":"I am a graphic designer who specializes in creating bold and vibrant illustrations.",
+      "details":"My go-to tools are Adobe Illustrator and Procreate. I love designing posters, album covers, and branding for music artists.",
+      "skills":[
+         "Illustrator",
+         "Procreate"
+      ],
+      "tags":[
+         "shareable",
+         "engaged",
+         "excitable",
+         "actionable"
+      ]
+   },
+   {
+      "id":20,
+      "photo":"https://hws.dev/img/user-20-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-20-thumb.jpg",
+      "firstName":"Lorraine",
+      "lastName":"Warton",
+      "email":"lwarton@census.gov",
+      "experience":2,
+      "rate":150,
+      "bio":"I am a product designer who loves to design functional and minimalist objects.",
+      "details":"I use AutoCAD for my 3D modeling and rendering. I enjoy designing household items and furniture.",
+      "skills":[
+         "AutoCAD"
+      ],
+      "tags":[
+         "solution-oriented",
+         "motivated",
+         "versatile",
+         "knowledge user"
+      ]
+   },
+   {
+      "id":21,
+      "photo":"https://hws.dev/img/user-21-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-21-thumb.jpg",
+      "firstName":"Sim",
+      "lastName":"Bloodworthe",
+      "email":"sbloodworthe@nba.com",
+      "experience":6,
+      "rate":250,
+      "bio":"I am a web designer who likes to push the boundaries of what is possible with HTML, CSS, and JavaScript.",
+      "details":"I like to design interactive websites and animations. My go-to tools are Figma and Adobe XD.",
+      "skills":[
+         "Figma",
+         "XD"
+      ],
+      "tags":[
+         "profound",
+         "phased",
+         "game-changer",
+         "vertical-thinking"
+      ]
+   },
+   {
+      "id":22,
+      "photo":"https://hws.dev/img/user-22-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-22-thumb.jpg",
+      "firstName":"Elaine",
+      "lastName":"Fairbourn",
+      "email":"efairbourn@dailyfail.co.uk",
+      "experience":12,
+      "rate":425,
+      "bio":"I am a fashion designer who likes to combine vintage and modern styles.",
+      "details":"I use Illustrator and Photoshop to create my designs and patterns. I love designing unique and one-of-a-kind clothing.",
+      "skills":[
+         "Illustrator",
+         "Photoshop"
+      ],
+      "tags":[
+         "optimizing",
+         "adaptive",
+         "omni-channel",
+         "incremental"
+      ]
+   },
+   {
+      "id":23,
+      "photo":"https://hws.dev/img/user-23-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-23-thumb.jpg",
+      "firstName":"Sam",
+      "lastName":"Ebbage",
+      "email":"ebbage@pagesperso-orange.fr",
+      "experience":22,
+      "rate":1000,
+      "bio":"I am an industrial designer who enjoys creating sustainable and eco-friendly products.",
+      "details":"I use Illustrator and Alias for my prototyping, modeling, and rendering. I like designing products that improve people's daily lives.",
+      "skills":[
+         "Alias",
+         "Illustrator"
+      ],
+      "tags":[
+         "intangible",
+         "4th generation",
+         "group thinker",
+         "empowered"
+      ]
+   },
+   {
+      "id":24,
+      "photo":"https://hws.dev/img/user-24-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-24-thumb.jpg",
+      "firstName":"Jeannette",
+      "lastName":"Jonson",
+      "email":"jjonson@state.tx.us",
+      "experience":30,
+      "rate":1250,
+      "bio":"I am an game designer who loves to create immersive and engaging gameplay experiences.",
+      "details":"I use Procreate and Sketch to create design mock ups for my games. I enjoy designing both single-player and multiplayer games.",
+      "skills":[
+         "Procreate",
+         "Sketch"
+      ],
+      "tags":[
+         "future-proofed",
+         "frameworking",
+         "manager",
+         "data-driven"
+      ]
+   },
+   {
+      "id":25,
+      "photo":"https://hws.dev/img/user-25-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-25-thumb.jpg",
+      "firstName":"Liam",
+      "lastName":"Fitzmaurice",
+      "email":"l.fitzmaurice@pcworld.com",
+      "experience":4,
+      "rate":380,
+      "bio":"I am an interior designer who likes to create spaces that are both functional and visually pleasing.",
+      "details":"I use SketchUp and AutoCAD to create my designs. I love designing truly innovative residential and commercial spaces.",
+      "skills":[
+         "AutoCAD",
+         "SketchUp"
+      ],
+      "tags":[
+         "drilling down",
+         "adaptive",
+         "fully-configurable",
+         "reciprocal"
+      ]
+   },
+   {
+      "id":26,
+      "photo":"https://hws.dev/img/user-26-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-26-thumb.jpg",
+      "firstName":"Will",
+      "lastName":"Huntress",
+      "email":"huntress@live.com",
+      "experience":17,
+      "rate":900,
+      "bio":"I am a motion designer who likes to create dynamic and eye-catching animations.",
+      "details":"I use After Effects and Cinema 4D for my animations and visual effects. I enjoy designing title sequences and explainer videos.",
+      "skills":[
+         "After Effects",
+         "Cinema 4D"
+      ],
+      "tags":[
+         "moderator",
+         "attitude",
+         "success",
+         "ideator"
+      ]
+   },
+   {
+      "id":27,
+      "photo":"https://hws.dev/img/user-27-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-27-thumb.jpg",
+      "firstName":"Ellerey",
+      "lastName":"Sowten",
+      "email":"esowten@shop-pro.jp",
+      "experience":10,
+      "rate":750,
+      "bio":"I am an experience designer who likes to create memorable and engaging experiences for users.",
+      "details":"I use Sketch and Photoshop for my prototyping and user testing. I enjoy designing interactive installations and events.",
+      "skills":[
+         "Photoshop",
+         "Sketch"
+      ],
+      "tags":[
+         "well-defined",
+         "functional",
+         "group thinker",
+         "cross-platform"
+      ]
+   },
+   {
+      "id":28,
+      "photo":"https://hws.dev/img/user-28-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-28-thumb.jpg",
+      "firstName":"Janella",
+      "lastName":"Tzarkov",
+      "email":"jtzarkov@seesaa.net",
+      "experience":6,
+      "rate":275,
+      "bio":"I am a branding designer who enjoys creating strong and recognizable brands.",
+      "details":"I use Illustrator and InDesign for my branding and identity design. I love designing logos and visual identities for companies and organizations.",
+      "skills":[
+         "Illustrator",
+         "InDesign"
+      ],
+      "tags":[
+         "group thinker",
+         "engaged",
+         "high-level",
+         "reciprocal"
+      ]
+   },
+   {
+      "id":29,
+      "photo":"https://hws.dev/img/user-29-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-29-thumb.jpg",
+      "firstName":"Sidonnie",
+      "lastName":"Corah",
+      "email":"scorah@privacy.gov.au",
+      "experience":8,
+      "rate":475,
+      "bio":"I am a packaging designer who likes to make packaging that stands out on the shelves.",
+      "details":"I use Illustrator and Photoshop to create my designs. I enjoy designing packaging for food and beverage products.",
+      "skills":[
+         "Illustrator",
+         "Photoshop"
+      ],
+      "tags":[
+         "synchronised",
+         "encompassing",
+         "function-based",
+         "data island"
+      ]
+   },
+   {
+      "id":30,
+      "photo":"https://hws.dev/img/user-30-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-30-thumb.jpg",
+      "firstName":"Gideon",
+      "lastName":"Canas",
+      "email":"gcanas@artisteer.com",
+      "experience":12,
+      "rate":425,
+      "bio":"I am a user interface designer who likes to make interfaces that are both user-friendly and visually appealing.",
+      "details":"I use Sketch and Figma for my wireframing and prototyping. I enjoy designing apps and websites.",
+      "skills":[
+         "Figma",
+         "Sketch"
+      ],
+      "tags":[
+         "migrating",
+         "core user",
+         "persistent",
+         "future-proofed"
+      ]
+   },
+   {
+      "id":31,
+      "photo":"https://hws.dev/img/user-31-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-31-thumb.jpg",
+      "firstName":"Kathryn",
+      "lastName":"Exton",
+      "email":"kathe@bloglovin.com",
+      "experience":10,
+      "rate":400,
+      "bio":"I am a cartoonist who likes to create funny and relatable comics.",
+      "details":"I use Procreate and Photoshop to create my comics. I enjoy designing comics and illustrations for magazines and newspapers.",
+      "skills":[
+         "Photoshop",
+         "Procreate"
+      ],
+      "tags":[
+         "adaptive",
+         "focus groupee",
+         "fresh-thinking",
+         "out of the box"
+      ]
+   },
+   {
+      "id":32,
+      "photo":"https://hws.dev/img/user-32-full.jpg",
+      "thumbnail":"https://hws.dev/img/user-32-thumb.jpg",
+      "firstName":"Kyle",
+      "lastName":"Mougin",
+      "email":"kmougin@ezinearticles.com",
+      "experience":10,
+      "rate":500,
+      "bio":"I am a print designer who likes to create designs that are both striking and impactful.",
+      "details":"I use Illustrator and InDesign to create my designs. I enjoy designing brochures, posters, and billboards.",
+      "skills":[
+         "Illustrator",
+         "InDesign"
+      ],
+      "tags":[
+         "excitable",
+         "knowledge user",
+         "object-oriented",
+         "game-changer"
+      ]
+   }
+]

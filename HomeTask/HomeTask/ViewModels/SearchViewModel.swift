@@ -12,7 +12,13 @@ class SearchViewModel: ObservableObject {
     @Published var errorMessage: String?
     
     // inject GitHub search service
-    private let searchService: GitHubSearchService = DefaultGitHubSearchService()
+    var searchService: GitHubSearchService
+    
+    init(results: [Repository] = [], errorMessage: String? = nil, searchService: GitHubSearchService = DefaultGitHubSearchService()) {
+        self.results = results
+        self.errorMessage = errorMessage
+        self.searchService = searchService
+    }
     
     @MainActor
     func searchGitHub(query: String) async {

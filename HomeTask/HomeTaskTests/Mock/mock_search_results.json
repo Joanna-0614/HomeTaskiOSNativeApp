@@ -1,0 +1,18 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "TestRepo1",
+            "full_name": "user/TestRepo1",
+            "description": "This is a test repository",
+            "html_url": "https://github.com/user/TestRepo1"
+        },
+        {
+            "id": 2,
+            "name": "TestRepo2",
+            "full_name": "user/TestRepo2",
+            "description": "Another test repository",
+            "html_url": "https://github.com/user/TestRepo2"
+        }
+    ]
+}
