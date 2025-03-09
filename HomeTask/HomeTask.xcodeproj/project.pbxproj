@@ -20,19 +20,11 @@
 			remoteGlobalIDString = AA8B801E2D7B20DC0056858D;
 			remoteInfo = HomeTask;
 		};
-		AA8B803A2D7B20DD0056858D /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = AA8B80172D7B20DC0056858D /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = AA8B801E2D7B20DC0056858D;
-			remoteInfo = HomeTask;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
 		AA8B801F2D7B20DC0056858D /* HomeTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HomeTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA8B802F2D7B20DD0056858D /* HomeTaskTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HomeTaskTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
-		AA8B80392D7B20DD0056858D /* HomeTaskUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HomeTaskUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -44,11 +36,6 @@
 		AA8B80322D7B20DD0056858D /* HomeTaskTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			path = HomeTaskTests;
-			sourceTree = "<group>";
-		};
-		AA8B803C2D7B20DD0056858D /* HomeTaskUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = HomeTaskUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -71,13 +58,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AA8B80362D7B20DD0056858D /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
@@ -86,7 +66,6 @@
 			children = (
 				AA8B80212D7B20DC0056858D /* HomeTask */,
 				AA8B80322D7B20DD0056858D /* HomeTaskTests */,
-				AA8B803C2D7B20DD0056858D /* HomeTaskUITests */,
 				AA8B80202D7B20DC0056858D /* Products */,
 			);
 			sourceTree = "<group>";
@@ -96,7 +75,6 @@
 			children = (
 				AA8B801F2D7B20DC0056858D /* HomeTask.app */,
 				AA8B802F2D7B20DD0056858D /* HomeTaskTests.xctest */,
-				AA8B80392D7B20DD0056858D /* HomeTaskUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -152,29 +130,6 @@
 			productReference = AA8B802F2D7B20DD0056858D /* HomeTaskTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		AA8B80382D7B20DD0056858D /* HomeTaskUITests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = AA8B80492D7B20DD0056858D /* Build configuration list for PBXNativeTarget "HomeTaskUITests" */;
-			buildPhases = (
-				AA8B80352D7B20DD0056858D /* Sources */,
-				AA8B80362D7B20DD0056858D /* Frameworks */,
-				AA8B80372D7B20DD0056858D /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				AA8B803B2D7B20DD0056858D /* PBXTargetDependency */,
-			);
-			fileSystemSynchronizedGroups = (
-				AA8B803C2D7B20DD0056858D /* HomeTaskUITests */,
-			);
-			name = HomeTaskUITests;
-			packageProductDependencies = (
-			);
-			productName = HomeTaskUITests;
-			productReference = AA8B80392D7B20DD0056858D /* HomeTaskUITests.xctest */;
-			productType = "com.apple.product-type.bundle.ui-testing";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
@@ -189,10 +144,6 @@
 						CreatedOnToolsVersion = 16.2;
 					};
 					AA8B802E2D7B20DD0056858D = {
-						CreatedOnToolsVersion = 16.2;
-						TestTargetID = AA8B801E2D7B20DC0056858D;
-					};
-					AA8B80382D7B20DD0056858D = {
 						CreatedOnToolsVersion = 16.2;
 						TestTargetID = AA8B801E2D7B20DC0056858D;
 					};
@@ -219,7 +170,6 @@
 			targets = (
 				AA8B801E2D7B20DC0056858D /* HomeTask */,
 				AA8B802E2D7B20DD0056858D /* HomeTaskTests */,
-				AA8B80382D7B20DD0056858D /* HomeTaskUITests */,
 			);
 		};
 /* End PBXProject section */
@@ -233,13 +183,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 		AA8B802D2D7B20DD0056858D /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		AA8B80372D7B20DD0056858D /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -263,13 +206,6 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		AA8B80352D7B20DD0056858D /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
@@ -277,11 +213,6 @@
 			isa = PBXTargetDependency;
 			target = AA8B801E2D7B20DC0056858D /* HomeTask */;
 			targetProxy = AA8B80302D7B20DD0056858D /* PBXContainerItemProxy */;
-		};
-		AA8B803B2D7B20DD0056858D /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = AA8B801E2D7B20DC0056858D /* HomeTask */;
-			targetProxy = AA8B803A2D7B20DD0056858D /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -501,40 +432,6 @@
 			};
 			name = Release;
 		};
-		AA8B804A2D7B20DD0056858D /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QML348C7VK;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = sample.HomeTaskUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = HomeTask;
-			};
-			name = Debug;
-		};
-		AA8B804B2D7B20DD0056858D /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = QML348C7VK;
-				GENERATE_INFOPLIST_FILE = YES;
-				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = sample.HomeTaskUITests;
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				SWIFT_EMIT_LOC_STRINGS = NO;
-				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = HomeTask;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -561,15 +458,6 @@
 			buildConfigurations = (
 				AA8B80472D7B20DD0056858D /* Debug */,
 				AA8B80482D7B20DD0056858D /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		AA8B80492D7B20DD0056858D /* Build configuration list for PBXNativeTarget "HomeTaskUITests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				AA8B804A2D7B20DD0056858D /* Debug */,
-				AA8B804B2D7B20DD0056858D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

@@ -20,6 +20,9 @@ struct HomeView: View {
                     Spacer()
                     Text("Welcome to GitHub Client App")
                     
+                    imageCardView
+                        .padding(.horizontal)
+                    
                     NavigationLink(destination: SearchView()) {
                         Text("Search")
                             .foregroundColor(.white)
@@ -73,6 +76,23 @@ struct HomeView: View {
                         .environmentObject(authViewModel)
                 }
             }
+        }
+    }
+    
+    @ViewBuilder
+    var imageCardView: some View {
+        HStack {
+            // load success image
+            ImageCard(url: AppConstants.Network.imageSuccessURL) // valid url
+                .frame(height: 100)
+                .cornerRadius(10)
+                .shadow(radius: 4)
+            
+            // load failure image
+            ImageCard(url: AppConstants.Network.imageFailureURL) // force to use invalid url
+                .frame(width: 150, height: 100)
+                .cornerRadius(10)
+                .shadow(radius: 4)
         }
     }
 }
