@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  HomeTask
+
+  Created by 林彩霞 on 2025/3/7.
+  
+*/
+
+/* Localizable strings for zh-cn */
+"Username" = "用户名";
+"Password" = "密码";
+"Login" = "登录";
+"Welcome to GitHub Client App" = "欢迎使用GitHub客户端应用";
+"Search" = "搜索";
+"Profile" = "个人资料";
+"Change Avatar" = "更换头像";
+"Login with Biometrics" = "使用生物识别登录";
+"Logout" = "退出";
+"Login Error" = "用户名或密码错误";
+"Service Error" = "服务器错误";
+"Detail" = "详情";
+"Read more" = "更多";
